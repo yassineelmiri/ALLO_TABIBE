@@ -108,3 +108,5 @@ Contributions bienvenues ! Pour participer :
 
 ### Merci d’avoir choisi **ALLO_TABIBE** !  
 > *"Simplifier les soins, une réservation à la fois."*  
+🌐 **CANVA :** [Prasontation de mon project]([https://github.com/yassineelmiri](https://www.canva.com/design/DAGYtu9FciY/Be0kyiuqSeZoHPo7yrNlzg/edit
+))
